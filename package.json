@@ -1,0 +1,23 @@
+{
+  "name": "ejerciciogrunt",
+  "version": "1.0.0",
+  "description": "Ejercicio de grunt para Apps Móviles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel18lol/ejercicioGrunt.git"
+  },
+  "author": "DanielFG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel18lol/ejercicioGrunt/issues"
+  },
+  "homepage": "https://github.com/Daniel18lol/ejercicioGrunt#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-cssmin": "^3.0.0"
+  }
+}
