@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Daniel18lol/ejercicioGrunt#readme",
   "devDependencies": {
-    "grunt": "^1.1.0",
+    "grunt": "^1.3.0",
     "grunt-contrib-cssmin": "^3.0.0"
   }
 }
